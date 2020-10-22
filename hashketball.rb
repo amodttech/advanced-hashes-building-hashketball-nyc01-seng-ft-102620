@@ -28,7 +28,7 @@ def game_hash
         rebounds: 19,
         assists: 10,
         steals: 3,
-        blocks: 11,
+        blocks: 1,
         slam_dunks: 15},
        {player_name: "Mason Plumlee",
         number: 1,
